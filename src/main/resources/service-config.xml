@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <name></name>
+    <path></path>
+    <port></port>
+    <register>
+        <get>
+            <method></method>
+        </get>
+        <post>
+            <method></method>
+        </post>
+    </register>
+    <requiresAuth></requiresAuth>
+</service>
